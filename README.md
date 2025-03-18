@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Django-CRUD-Backend.git
+   git clone https://github.com/PrathamAyush/Django-CRUD-Backend.git
    cd Django-CRUD-Backend
    ```
 2. Create and activate a virtual environment:
